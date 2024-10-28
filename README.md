@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lucasdev06
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C language
+- 👀 I’m interested in Cyber Security
 - 📫 How to reach me www.linkedin.com/in/
 lucaseduardo0a632247
 
